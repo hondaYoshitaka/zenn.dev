@@ -5,7 +5,7 @@
   "scripts": {
     "lint": "textlint articles/*",
     "lint:fix": "textlint --fix articles/*",
-    "article:create": "zenn new:article",
+    "article:new": "zenn new:article",
     "preview": "zenn preview"
   },
   "author": "yhonda",
